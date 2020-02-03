@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author m.parra.davila
  */
-public class condicional01 {
+public class condicional01MayorDeEdad {
     
     public static void main(String[] args){
         

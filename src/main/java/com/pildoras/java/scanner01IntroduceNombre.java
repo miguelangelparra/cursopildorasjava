@@ -6,7 +6,7 @@ import java.util.Scanner;
  *
  * @author m.parra.davila
  */
-public class scanner01 {
+public class scanner01IntroduceNombre {
     
     public static void main (String[] args){
         Scanner entrada = new Scanner(System.in);

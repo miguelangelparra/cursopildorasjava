@@ -9,7 +9,7 @@ package com.pildoras.java;
  *
  * @author m.parra.davila
  */
-public class hola {
+public class HolaMundo {
 
     public static void main(String[] Args) {
         System.out.println("Hola Mundo!");

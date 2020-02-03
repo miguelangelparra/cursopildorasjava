@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
  *
  * @author m.parra.davila
  */
-public class condicional02 {
+public class condicional02AreaDeFiguras {
 
     public static void main(String[] args) {
 
