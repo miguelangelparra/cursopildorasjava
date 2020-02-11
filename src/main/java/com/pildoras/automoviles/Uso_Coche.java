@@ -21,6 +21,7 @@ public class Uso_Coche {
         System.out.println(miCoche.getDatosGenerales());
         
         miCoche.setColor(JOptionPane.showInputDialog("¿Que Color deseas?"));
+        
         System.out.println(miCoche.getColor());
         
         miCoche.setAsientos(JOptionPane.showInputDialog("¿Quieres asientos de cuero?"));
